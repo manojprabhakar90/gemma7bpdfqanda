@@ -8,7 +8,7 @@ There are two parts to run this code successfully. Get huggingface token and acc
 
 Huggingface token can be obtained at https://huggingface.co/settings/tokens by clicking on New token. 
 
-Gemma 7B agreement can be accepted at https://huggingface.co/google/gemma-7b-it
+Gemma 7B agreement can be accepted at https://huggingface.co/google/gemma-7b-it. 
 
 
 
